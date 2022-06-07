@@ -5,6 +5,19 @@
 /.pnp
 .pnp.js
 
+node_modules/
+dist/
+build/
+coverage/
+.vscode/
+.idea/
+*.iml
+.npmrc
+.DS_Store
+package-lock.json
+/.idea/
+/node_modules/
+
 # testing
 /coverage
 
